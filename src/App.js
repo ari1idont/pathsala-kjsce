@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       {/* <Eleventwelve></Eleventwelve> */}
       {/* <Pcme11></Pcme11> */}
-      <Physics11></Physics11>
+      {/* <Physics11></Physics11> */}
       {/* <Chemistry11></Chemistry11> */}
       {/* <Maths11></Maths11> */}
       {/* <Physics12></Physics12> */}
