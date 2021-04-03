@@ -26,7 +26,7 @@ function App() {
     <Router>
       <Switch>
         <Route path='/pathsala0101/' component={Home} exact />
-        <Route path='/pathsala0101/school' component={Eleventwelve} />
+        <Route path='/school' component={Eleventwelve} />
         <Route path='/pcme11' component={Pcme11} />
         <Route path='/physics11' component={Physics11} />
         <Route path='/chemistry11' component={Chemistry11} />
