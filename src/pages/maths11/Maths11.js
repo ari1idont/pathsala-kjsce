@@ -15,7 +15,7 @@ function Maths11() {
             </div>
             <div className='video-resources-math'>
                 <h2 className='h2-math'>
-                    Video Resources
+                   Additional Video Resources
                 </h2>    
                 <li>
                     <a href='https://youtube.com/playlist?list=PLVLoWQFkZbhVTcotKKM8XX5KVXSFyXixJ'> Complete Math class 11 in one shot</a>

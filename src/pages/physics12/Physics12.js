@@ -15,7 +15,7 @@ function Physics12() {
             </div>
             <div className='video-resources-physics'>
                 <h2 className='h2-physics'>
-                    Video Resources
+                    Additional Video Resources
                 </h2>    
                 <li>
                     <a href='https://www.youtube.com/watch?v=gQdpp57jV0Q'>  physics in one shot</a>

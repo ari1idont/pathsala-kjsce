@@ -15,7 +15,7 @@ function Chemistry12() {
             </div>
             <div className='video-resources-chemistry'>
                 <h2 className='h2-chemistry'>
-                    Video Resources
+                   Additional Video Resources
                 </h2>    
                 <li>
                     <a href='https://youtube.com/playlist?list=PLVSwGhkgl7tyWLXicbYiE73_oW-omxBje'> Complete chemistry class 11 in one shot</a>

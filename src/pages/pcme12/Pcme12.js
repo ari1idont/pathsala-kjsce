@@ -11,8 +11,9 @@ function pcme() {
                     </div>
                     <div class="flip-card-back-pcme1">
                         <br/><br/>
+                        <br/>
                         <p>
-                            click to gain all the important resources of Physics class 12<sup>th</sup>
+                            Click to gain all the important resources of Physics class 12<sup>th</sup>
                         </p>
                     </div>
                 </div>
@@ -26,8 +27,9 @@ function pcme() {
                     </div>
                     <div class="flip-card-back-pcme2">
                         <br/><br/>
+                        <br/>
                         <p>
-                            click to gain all the important resources of Chemisrty class 12<sup>th</sup>
+                            Click to gain all the important resources of Chemisrty class 12<sup>th</sup>
                         </p>
                     </div>
                 </div>
@@ -41,8 +43,9 @@ function pcme() {
                     </div>
                     <div class="flip-card-back-pcme3">
                         <br/><br/>
+                        <br/>
                         <p>
-                            click to gain all the important resources of Maths class 12<sup>th</sup>
+                            Click to gain all the important resources of Maths class 12<sup>th</sup>
                         </p>
                     </div>
                 </div>
@@ -60,8 +63,9 @@ function pcme() {
                     </div>
                     <div class="flip-card-back-pcme4">
                         <br/><br/>
+                        <br/><br/>
                         <p>
-                            click to gain the extra resources for class 12
+                            Click to gain the extra resources for class 12
                         </p>
                     </div>
                 </div>

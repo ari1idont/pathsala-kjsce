@@ -15,7 +15,7 @@ function Physics11() {
             </div>
             <div className='video-resources-physics'>
                 <h2 className='h2-physics'>
-                    Video Resources
+                    Additional Video Resources
                 </h2>    
                 <li>
                     <a href='https://www.youtube.com/watch?v=xnXW0VZqwNo'> Complete physics class 11 in one shot</a>

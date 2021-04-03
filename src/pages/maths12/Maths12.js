@@ -15,7 +15,7 @@ function Maths12() {
             </div>
             <div className='video-resources-math'>
                 <h2 className='h2-math'>
-                    Video Resources
+                   Additional Video Resources
                 </h2>    
                 <li>
                     <a href='https://youtube.com/playlist?list=PLQLS4tnUJrQeuXet1H2V5D637WyY9IGio'> Complete Math class 12 in one shot</a>
