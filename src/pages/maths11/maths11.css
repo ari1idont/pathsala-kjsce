@@ -1,0 +1,69 @@
+.math-container{
+    display:flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content:center; */
+    /* margin-top: 30vh;
+    margin-left: 10vh; */
+    background: url('../../assets/5026597.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    color: #57FCD5;
+    z-index: 200;
+    
+    overflow-y: scroll;
+    
+}
+
+.youtube-math{
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    justify-content:center;
+   
+}
+.video-resources-math{
+    display: left;
+    text-align: left;
+    margin-left: 2vh;
+    align-items: center;
+    justify-content:center;
+    
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index: 200;
+    color: #57FCD5;
+    font-size: 3vh;
+   
+      
+
+}
+.reading-resources-math{
+    text-align: left;
+    margin-left: 2vh;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    z-index: 200;
+    color: #57FCD5;
+    font-size: 3vh;
+    padding-bottom: 5vh;
+   
+
+
+}
+a{
+    /* text-decoration: none; */
+    background-color: none;
+    color: #57FCD5;
+}
+.h1-math{
+    font-size: 10vh;
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    justify-content:center;
+    
+}

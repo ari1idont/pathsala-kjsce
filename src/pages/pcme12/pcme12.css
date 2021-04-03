@@ -1,0 +1,240 @@
+.pcmecontainer{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-top: 30vh;
+    margin-left: 10vh; */
+    background: url('./../../assets/5026597.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    flex-wrap: wrap;
+    position: fixed;
+}
+  
+    
+  .flip-card-pcme1 {
+      background-color: transparent;
+      width: 200px;
+      height: 200px;
+      display: table-column;
+      /* border: 1px solid #f1f1f1; */
+      perspective: 1000px; /* Remove this if you don't want the 3D effect */
+      margin-right: 5%;
+
+    }
+    .flip-card-inner-pcme1 {
+      display: flex;
+      /* transform: translate(15%,0%); */
+        position: relative;
+      width: 100%;
+      height: 100%;
+      text-align: center;
+      font-style: italic;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      transition: transform 0.8s;
+      transform-style: preserve-3d;
+    }
+    
+    /* Do an horizontal flip when you move the mouse over the flip box container */
+    .flip-card-pcme1:hover .flip-card-inner-pcme1 {
+      transform: rotateY(180deg);
+    }
+    
+    /* Position the front and back side */
+    .flip-card-front-pcme1, .flip-card-back-pcme1 {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 10%;
+      -webkit-backface-visibility: hidden; /* Safari */
+      backface-visibility: hidden;
+    }
+    
+    /* Style the front side (fallback if image is missing) */
+    .flip-card-front-pcme1 {
+      background: url('../../assets/physiscs.png') center no-repeat;
+      background-size:contain;
+      
+      background-color: #bbb;
+      opacity: 1;
+      color: black;
+    }
+    
+    /* Style the back side */
+    .flip-card-back-pcme1 {
+      background-color: dodgerblue;
+      color: white;
+      transform: rotateY(180deg);
+    }
+
+
+/*------------------------------------------------------------------------------*/
+
+
+    .flip-card-pcme2 {
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: table-column;
+
+    
+        /* border: 1px solid #f1f1f1; */
+        perspective: 1000px; /* Remove this if you don't want the 3D effect */
+      }
+      .flip-card-inner-pcme2 {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        transition: transform 0.8s;
+        transform-style: preserve-3d;
+      }
+      
+      /* Do an horizontal flip when you move the mouse over the flip box container */
+      .flip-card-pcme2:hover .flip-card-inner-pcme2 {
+        transform: rotateY(180deg);
+      }
+      
+      /* Position the front and back side */
+      .flip-card-front-pcme2, .flip-card-back-pcme2 {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border-radius: 10%;
+        -webkit-backface-visibility: hidden; /* Safari */
+        backface-visibility: hidden;
+      }
+      
+      /* Style the front side (fallback if image is missing) */
+      .flip-card-front-pcme2 {
+        /* background: url('../../assets/chemistry.png'); */
+        background: url('../../assets/chemistry.png') center no-repeat;
+        background-size:contain;
+  
+        background-color: #bbb;
+        opacity: 1;
+        color: black;
+      }
+      
+      /* Style the back side */
+      .flip-card-back-pcme2 {
+        background-color: dodgerblue;
+        color: white;
+        transform: rotateY(180deg);
+      }
+
+/*-----------------------------------------------------------------------------*/
+
+
+      .flip-card-pcme3 {
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: table-row;
+        /* border: 1px solid #f1f1f1; */
+        perspective: 1000px; /* Remove this if you don't want the 3D effect */
+      }
+      .flip-card-inner-pcme3 {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        transition: transform 0.8s;
+        transform-style: preserve-3d;
+      }
+      
+      /* Do an horizontal flip when you move the mouse over the flip box container */
+      .flip-card-pcme3:hover .flip-card-inner-pcme3 {
+        transform: rotateY(180deg);
+      }
+      
+      /* Position the front and back side */
+      .flip-card-front-pcme3, .flip-card-back-pcme3 {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border-radius: 10%;
+        -webkit-backface-visibility: hidden; /* Safari */
+        backface-visibility: hidden;
+      }
+      
+      /* Style the front side (fallback if image is missing) */
+      .flip-card-front-pcme3 {
+        /* background: url('../../assets/maths1.jpg'); */
+        background: url('../../assets/maths.png') center no-repeat;
+        background-size:contain;
+  
+        background-color: #bbb;
+        opacity: 1;
+        color: black;
+      }
+      
+      /* Style the back side */
+      .flip-card-back-pcme3 {
+        background-color: dodgerblue;
+        color: white;
+        transform: rotateY(180deg);
+      }
+/*-------------------------------------------------------------------------------*/
+
+      .flip-card-pcme4 {
+        background-color: transparent;
+        width: 200px;
+        height: 200px;
+        display: table-row;
+        margin-left: 5%;
+        /* margin-right: 5%; */
+    
+        /* border: 1px solid #f1f1f1; */
+        perspective: 1000px; /* Remove this if you don't want the 3D effect */
+      }
+      .flip-card-inner-pcme4 {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+      
+        transition: transform 0.8s;
+        transform-style: preserve-3d;
+      }
+      
+      /* Do an horizontal flip when you move the mouse over the flip box container */
+      .flip-card-pcme4:hover .flip-card-inner-pcme4 {
+        transform: rotateY(180deg);
+      }
+      
+      /* Position the front and back side */
+      .flip-card-front-pcme4, .flip-card-back-pcme4 {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border-radius: 10%;
+        -webkit-backface-visibility: hidden; /* Safari */
+        backface-visibility: hidden;
+      }
+      
+      /* Style the front side (fallback if image is missing) */
+      .flip-card-front-pcme4 {
+        background-color: #bbb;
+        opacity: 0.5;
+        color: black;
+      }
+      
+      /* Style the back side */
+      .flip-card-back-pcme4 {
+        background-color: dodgerblue;
+        color: white;
+        transform: rotateY(180deg);
+      }
