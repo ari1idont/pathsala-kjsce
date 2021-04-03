@@ -46,18 +46,7 @@ function pcme() {
             </div>
 
 
-            <div className='flip-card-pcme4'>
-                <div className='flip-card-inner-pcme4'>
-                    <div className='flip-card-front-pcme4'>
-                        <h1>Extras</h1>
-                    </div>
-                    <div class="flip-card-back-pcme4">
-                        <p>
-                            click to gain the extra resources for class 11
-                        </p>
-                    </div>
-                </div>
-            </div>
+            
         </div>
     )
 }
