@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ari1idont/pathsala-kjscestatic/css/main.42a02e81.chunk.css",
+    "main.js": "/ari1idont/pathsala-kjscestatic/js/main.d0ed7332.chunk.js",
+    "main.js.map": "/ari1idont/pathsala-kjscestatic/js/main.d0ed7332.chunk.js.map",
+    "runtime-main.js": "/ari1idont/pathsala-kjscestatic/js/runtime-main.11d32fdb.js",
+    "runtime-main.js.map": "/ari1idont/pathsala-kjscestatic/js/runtime-main.11d32fdb.js.map",
+    "static/js/2.585e7f54.chunk.js": "/ari1idont/pathsala-kjscestatic/js/2.585e7f54.chunk.js",
+    "static/js/2.585e7f54.chunk.js.map": "/ari1idont/pathsala-kjscestatic/js/2.585e7f54.chunk.js.map",
+    "static/js/3.13c71f95.chunk.js": "/ari1idont/pathsala-kjscestatic/js/3.13c71f95.chunk.js",
+    "static/js/3.13c71f95.chunk.js.map": "/ari1idont/pathsala-kjscestatic/js/3.13c71f95.chunk.js.map",
+    "index.html": "/ari1idont/pathsala-kjsceindex.html",
+    "static/css/main.42a02e81.chunk.css.map": "/ari1idont/pathsala-kjscestatic/css/main.42a02e81.chunk.css.map",
+    "static/js/2.585e7f54.chunk.js.LICENSE.txt": "/ari1idont/pathsala-kjscestatic/js/2.585e7f54.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/ari1idont/pathsala-kjscestatic/media/5026597.91ef224e.jpg",
+    "static/media/landing.css": "/ari1idont/pathsala-kjscestatic/media/Work_from_home.716332c1.png",
+    "static/media/pcme12.css": "/ari1idont/pathsala-kjscestatic/media/physiscs.161577ca.png",
+    "static/media/home_cards.css": "/ari1idont/pathsala-kjscestatic/media/school.c042cbcc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11d32fdb.js",
+    "static/js/2.585e7f54.chunk.js",
+    "static/css/main.42a02e81.chunk.css",
+    "static/js/main.d0ed7332.chunk.js"
+  ]
+}
