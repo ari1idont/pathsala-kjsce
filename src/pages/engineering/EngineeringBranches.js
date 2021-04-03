@@ -9,12 +9,15 @@ function EngineeringBranches() {
                 <Link to='/cs'>
                 <div className='flip-card-inner-eng'>
                     <div className='flip-card-front-eng'>
+                    <br/><br/>
                         <h1>
                             Computer Science and Engineering
                         </h1>
                     </div>
                     <div class="flip-card-back-eng">
+                    <br/>
                         <h3>
+                        <br/><br/>
                             Click to gain all the important resources for CSE
                         </h3>
                     </div>
@@ -25,12 +28,14 @@ function EngineeringBranches() {
                 <Link to='/ece'>
                 <div className='flip-card-inner-eng'>
                     <div className='flip-card-front-eng'>
+                    <br/>
                         <h1>
                             Electronics and Communication Engineering
                         </h1>
                     </div>
                     <div class="flip-card-back-eng">
                         <h3>
+                        <br/><br/><br/>
                         Click to gain all the important resources for ECE
                         </h3>
                     </div>
@@ -41,12 +46,14 @@ function EngineeringBranches() {
                 <Link to='/mech'>
                 <div className='flip-card-inner-eng'>
                     <div className='flip-card-front-eng'>
+                    <br/><br/>
                         <h1>
                             Mechanical Engineering
                         </h1>
                     </div>
                     <div class="flip-card-back-eng">
                         <h3>
+                        <br/><br/>
                         Click to gain all the important resources for Mechanical Engineering
                         </h3>
                     </div>

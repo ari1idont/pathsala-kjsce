@@ -20,8 +20,6 @@ function pcme() {
                 </div>
                 </Link>
             </div>
-            
-
             <div className='flip-card-pcme2'>
                 <Link to='/chemistry11'>
                 <div className='flip-card-inner-pcme2'>
