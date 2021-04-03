@@ -1,0 +1,75 @@
+.container-review{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 2.5%;
+    width: 100%;
+    height: 100%;
+    padding-top: 170px;
+    padding-bottom: 10vh;
+}
+.heading h1{
+    font-size: 50px;
+    color: #57fcd5;
+    margin-bottom: 0;
+    line-height: 0.8em;
+}
+.subheading{
+    margin-top: 0;
+}
+.subheading h2{
+    font-size: 20px;
+    color:#57fcd5;
+}
+.review-form, .heading, .subheading{
+    margin-left: 3.75%;
+}
+.form-1{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0;
+}
+.name-div, .email-div{
+    padding-top:44px;
+    padding-bottom: 0;
+}
+.name-field, .email-field{
+    height: 2.8em;
+    width: 30em;
+}
+.name-field::placeholder, .email-field::placeholder{
+    font-size: 1.5em;
+    font-weight:700;
+    color:#57fcd5;
+}
+.ta-forms{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+}
+.ta-forms label{
+    font-size: 1.3em;
+    font-weight: 700;
+    color:#57fcd5;
+    line-height: 80px;
+}
+.ta-div{
+    margin-top: 3%;
+    margin-right: 2.25%;
+}
+.ta-field{
+    height: 8.5em;
+    width: 30em;
+}
+.rev-submit{
+    font-size: 1.7em;
+    font-weight: bolder;
+    border: none;
+    background-color: white;
+    border-radius: 40px;
+    padding: 8px;
+    width: 7em;
+}
+.review-form button{
+    margin-top: 1.5%;
+}

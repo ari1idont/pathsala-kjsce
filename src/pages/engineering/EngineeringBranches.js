@@ -1,11 +1,12 @@
 import React from 'react'
 import './engineeringBranches.css'
-
+import {Link} from 'react-router-dom'
 function EngineeringBranches() {
     return (
         
             <div className='engineering-branches'>
             <div className='flip-card-eng'>
+                <Link to='/cs'>
                 <div className='flip-card-inner-eng'>
                     <div className='flip-card-front-eng'>
                         <h1>
@@ -18,8 +19,10 @@ function EngineeringBranches() {
                         </h3>
                     </div>
                 </div>
+                </Link>
             </div>
             <div className='flip-card-eng'>
+                <Link to='/ece'>
                 <div className='flip-card-inner-eng'>
                     <div className='flip-card-front-eng'>
                         <h1>
@@ -32,8 +35,10 @@ function EngineeringBranches() {
                         </h3>
                     </div>
                 </div>
+                </Link>
             </div>
             <div className='flip-card-eng'>
+                <Link to='/mech'>
                 <div className='flip-card-inner-eng'>
                     <div className='flip-card-front-eng'>
                         <h1>
@@ -46,6 +51,7 @@ function EngineeringBranches() {
                         </h3>
                     </div>
                 </div>
+                </Link>
             </div>
         </div>
         

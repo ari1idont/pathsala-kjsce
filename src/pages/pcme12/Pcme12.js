@@ -1,11 +1,13 @@
 import React,{useState} from 'react'
 import './pcme12.css'
+import {Link} from 'react-router-dom'
 
 
 function pcme() {
     return (
         <div className='pcmecontainer'>
             <div className='flip-card-pcme1'>
+                <Link to='/physics12'>
                 <div className='flip-card-inner-pcme1'>
                     <div className='flip-card-front-pcme1'>
                     </div>
@@ -17,10 +19,12 @@ function pcme() {
                         </p>
                     </div>
                 </div>
+                </Link>
             </div>
             
 
             <div className='flip-card-pcme2'>
+                <Link to='/chemistry12'>
                 <div className='flip-card-inner-pcme2'>
                     <div className='flip-card-front-pcme2'>
                         
@@ -33,11 +37,13 @@ function pcme() {
                         </p>
                     </div>
                 </div>
+                </Link>
             </div>
 
 
 
             <div className='flip-card-pcme3'>
+                <Link to='/maths12'>
                 <div className='flip-card-inner-pcme3'>
                     <div className='flip-card-front-pcme3'>
                     </div>
@@ -49,10 +55,12 @@ function pcme() {
                         </p>
                     </div>
                 </div>
+                </Link>
             </div>
 
 
             <div className='flip-card-pcme4'>
+                <Link to='/extras12'>
                 <div className='flip-card-inner-pcme4'>
                     <div className='flip-card-front-pcme4'>
                         <br/><br/><br/>
@@ -69,6 +77,7 @@ function pcme() {
                         </p>
                     </div>
                 </div>
+                </Link>
             </div>
         </div>
     )

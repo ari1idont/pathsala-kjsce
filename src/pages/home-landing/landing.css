@@ -1,0 +1,23 @@
+.big-div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.div-two{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 20vh;
+}
+.landing-title h1{
+    font-size: 15vh;
+    color: #57fcd5;
+}
+.landing-img{
+    background: url('../../assets/Work_from_home.png') center no-repeat;
+    background-size: contain;
+    width: 60vh;
+    height: 50vh;
+}
