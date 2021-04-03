@@ -25,8 +25,8 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path='/' component={Home} exact />
-        <Route path='/school' component={Eleventwelve} />
+        <Route path='/ari1idont' component={Home} exact />
+        <Route path='/ari1idont/school' component={Eleventwelve} />
         <Route path='/pcme11' component={Pcme11} />
         <Route path='/physics11' component={Physics11} />
         <Route path='/chemistry11' component={Chemistry11} />
