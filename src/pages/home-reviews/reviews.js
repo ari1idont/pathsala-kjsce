@@ -2,7 +2,7 @@ import { render } from '@testing-library/react'
 import React, { Component } from 'react'
 import './reviews.css'
 import fire from "../home-reviews/fire"
-
+import StarRating from '../review/StarRating'
 class Reviews extends Component{
     state={
         text:""
@@ -36,6 +36,8 @@ handleSubmit=e=>{
                         <div className = "name-div"><input className = "name-field" placeholder = "Name"></input></div>
                         <div className = "email-div"><input className = "email-field" placeholder = "Email ID"></input></div>
                     </form>
+                    <br /><br />
+                    <StarRating></StarRating>
                     <form className = "ta-forms">
                         <div className = "ta-div">
                             <label>Review/Questions</label><br/>
