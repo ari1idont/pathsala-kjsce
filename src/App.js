@@ -21,6 +21,7 @@ import NonTechnicalSkills from './pages/skills/NonTechSkills'
 import Home from './pages/home/home'
 
 
+
 function App() {
   return (
     <Router>
@@ -43,18 +44,19 @@ function App() {
         <Route path='/skills' component={Skills} />
         <Route path='/technicalskills' component={TechnicalSkills} />
         <Route path='/nontechnicalskills' component={NonTechnicalSkills} />
-      {/* <Eleventwelve></Eleventwelve> */}
-      {/* <Pcme11></Pcme11> */}
-      {/* <Physics11></Physics11> */}
-      {/* <Chemistry11></Chemistry11> */}
-      {/* <Maths11></Maths11> */}
-      {/* <Physics12></Physics12> */}
-      {/* <Chemistry12></Chemistry12> */}
-      {/* <Maths12></Maths12> */}
-      {/* <Extras12></Extras12> */}
-      {/* <Pcme12></Pcme12> */}
-      </Switch>
-      </Router>
+    //   {/* <Eleventwelve></Eleventwelve> */}
+      // {/* <Pcme11></Pcme11> */}
+      // {/* <Physics11></Physics11> */}
+      // {/* <Chemistry11></Chemistry11> */}
+      // {/* <Maths11></Maths11> */}
+      // {/* <Physics12></Physics12> */}
+      // {/* <Chemistry12></Chemistry12> */}
+      // {/* <Maths12></Maths12> */}
+      // {/* <Extras12></Extras12> */}
+      // {/* <Pcme12></Pcme12> */}
+    
+       </Switch>
+       </Router>
   );
 }
 
