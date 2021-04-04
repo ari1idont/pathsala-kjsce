@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pathsala0101/static/css/main.03b69c8b.chunk.css",
-    "main.js": "/pathsala0101/static/js/main.de84c83e.chunk.js",
-    "main.js.map": "/pathsala0101/static/js/main.de84c83e.chunk.js.map",
-    "runtime-main.js": "/pathsala0101/static/js/runtime-main.af20fd2b.js",
-    "runtime-main.js.map": "/pathsala0101/static/js/runtime-main.af20fd2b.js.map",
-    "static/js/2.b0363bb4.chunk.js": "/pathsala0101/static/js/2.b0363bb4.chunk.js",
-    "static/js/2.b0363bb4.chunk.js.map": "/pathsala0101/static/js/2.b0363bb4.chunk.js.map",
-    "static/js/3.30c71d92.chunk.js": "/pathsala0101/static/js/3.30c71d92.chunk.js",
-    "static/js/3.30c71d92.chunk.js.map": "/pathsala0101/static/js/3.30c71d92.chunk.js.map",
+    "main.css": "/pathsala0101/static/css/main.8b604e5a.chunk.css",
+    "main.js": "/pathsala0101/static/js/main.aa826079.chunk.js",
+    "main.js.map": "/pathsala0101/static/js/main.aa826079.chunk.js.map",
+    "runtime-main.js": "/pathsala0101/static/js/runtime-main.369c735b.js",
+    "runtime-main.js.map": "/pathsala0101/static/js/runtime-main.369c735b.js.map",
+    "static/js/2.2561989b.chunk.js": "/pathsala0101/static/js/2.2561989b.chunk.js",
+    "static/js/2.2561989b.chunk.js.map": "/pathsala0101/static/js/2.2561989b.chunk.js.map",
+    "static/js/3.2cf4c2af.chunk.js": "/pathsala0101/static/js/3.2cf4c2af.chunk.js",
+    "static/js/3.2cf4c2af.chunk.js.map": "/pathsala0101/static/js/3.2cf4c2af.chunk.js.map",
     "index.html": "/pathsala0101/index.html",
-    "static/css/main.03b69c8b.chunk.css.map": "/pathsala0101/static/css/main.03b69c8b.chunk.css.map",
-    "static/js/2.b0363bb4.chunk.js.LICENSE.txt": "/pathsala0101/static/js/2.b0363bb4.chunk.js.LICENSE.txt",
+    "static/css/main.8b604e5a.chunk.css.map": "/pathsala0101/static/css/main.8b604e5a.chunk.css.map",
+    "static/js/2.2561989b.chunk.js.LICENSE.txt": "/pathsala0101/static/js/2.2561989b.chunk.js.LICENSE.txt",
     "static/media/home.css": "/pathsala0101/static/media/5026597.91ef224e.jpg",
     "static/media/landing.css": "/pathsala0101/static/media/Work_from_home.716332c1.png",
     "static/media/pcme12.css": "/pathsala0101/static/media/physiscs.161577ca.png",
     "static/media/home_cards.css": "/pathsala0101/static/media/school.c042cbcc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.af20fd2b.js",
-    "static/js/2.b0363bb4.chunk.js",
-    "static/css/main.03b69c8b.chunk.css",
-    "static/js/main.de84c83e.chunk.js"
+    "static/js/runtime-main.369c735b.js",
+    "static/js/2.2561989b.chunk.js",
+    "static/css/main.8b604e5a.chunk.css",
+    "static/js/main.aa826079.chunk.js"
   ]
 }
