@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/pathsala0101/static/css/main.03b69c8b.chunk.css",
-    "main.js": "/pathsala0101/static/js/main.8bc04e90.chunk.js",
-    "main.js.map": "/pathsala0101/static/js/main.8bc04e90.chunk.js.map",
-    "runtime-main.js": "/pathsala0101/static/js/runtime-main.2d72966c.js",
-    "runtime-main.js.map": "/pathsala0101/static/js/runtime-main.2d72966c.js.map",
-    "static/js/2.a14154f7.chunk.js": "/pathsala0101/static/js/2.a14154f7.chunk.js",
-    "static/js/2.a14154f7.chunk.js.map": "/pathsala0101/static/js/2.a14154f7.chunk.js.map",
-    "static/js/3.7df6b4fd.chunk.js": "/pathsala0101/static/js/3.7df6b4fd.chunk.js",
-    "static/js/3.7df6b4fd.chunk.js.map": "/pathsala0101/static/js/3.7df6b4fd.chunk.js.map",
+    "main.js": "/pathsala0101/static/js/main.de84c83e.chunk.js",
+    "main.js.map": "/pathsala0101/static/js/main.de84c83e.chunk.js.map",
+    "runtime-main.js": "/pathsala0101/static/js/runtime-main.af20fd2b.js",
+    "runtime-main.js.map": "/pathsala0101/static/js/runtime-main.af20fd2b.js.map",
+    "static/js/2.b0363bb4.chunk.js": "/pathsala0101/static/js/2.b0363bb4.chunk.js",
+    "static/js/2.b0363bb4.chunk.js.map": "/pathsala0101/static/js/2.b0363bb4.chunk.js.map",
+    "static/js/3.30c71d92.chunk.js": "/pathsala0101/static/js/3.30c71d92.chunk.js",
+    "static/js/3.30c71d92.chunk.js.map": "/pathsala0101/static/js/3.30c71d92.chunk.js.map",
     "index.html": "/pathsala0101/index.html",
     "static/css/main.03b69c8b.chunk.css.map": "/pathsala0101/static/css/main.03b69c8b.chunk.css.map",
-    "static/js/2.a14154f7.chunk.js.LICENSE.txt": "/pathsala0101/static/js/2.a14154f7.chunk.js.LICENSE.txt",
+    "static/js/2.b0363bb4.chunk.js.LICENSE.txt": "/pathsala0101/static/js/2.b0363bb4.chunk.js.LICENSE.txt",
     "static/media/home.css": "/pathsala0101/static/media/5026597.91ef224e.jpg",
     "static/media/landing.css": "/pathsala0101/static/media/Work_from_home.716332c1.png",
     "static/media/pcme12.css": "/pathsala0101/static/media/physiscs.161577ca.png",
     "static/media/home_cards.css": "/pathsala0101/static/media/school.c042cbcc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d72966c.js",
-    "static/js/2.a14154f7.chunk.js",
+    "static/js/runtime-main.af20fd2b.js",
+    "static/js/2.b0363bb4.chunk.js",
     "static/css/main.03b69c8b.chunk.css",
-    "static/js/main.8bc04e90.chunk.js"
+    "static/js/main.de84c83e.chunk.js"
   ]
 }
