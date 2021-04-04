@@ -1,7 +1,7 @@
 import { render } from '@testing-library/react'
 import React, { Component } from 'react'
 import './reviews.css'
-import fire from "../src/fire"
+import fire from "../home-reviews/fire"
 
 class Reviews extends Component{
     state={
